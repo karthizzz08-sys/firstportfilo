@@ -53,7 +53,7 @@
     padding-left: 10px;
     padding-top: 3px;
 }       
-.me:hover,:active{
+.me:hover{
     background-color: orangered;
     border: 3px dotted orangered;
     color: white;
@@ -65,7 +65,7 @@
     color: white;
     padding-right: 70px;
 }
-.line:hover,:active{
+.line:hover{
     color: orangered;
     border-bottom: 3px solid orangered;
     font-weight: bold;
@@ -112,7 +112,7 @@
     text-align: center;
     top: 400px;
 }
-.hire:hover,:active{
+.hire:hover{
     background-color:white;
         border: 2px solid black;
         color: black;
@@ -131,7 +131,7 @@
     text-align: center;
     top: 400px;
 }
-.ex:hover,:active{
+.ex:hover{
     background-color: white;
     border:2px solid black;
     color:orangered;
@@ -140,7 +140,7 @@
 .parent3{
     display: flex;
     background-color: black;
-    width: 1300px;
+    width: 1000px;
     height:750px;
     position: absolute;
     top: 800px;
@@ -200,7 +200,7 @@
         text-align: center;
 
     }
-    .exper:hover,:active{
+    .exper:hover{
 
      background-color:orangered;
     border:2px solid orangered;
@@ -301,7 +301,7 @@
         padding-top: 13px;
         
     }
-    .atag:hover,:active{
+    .atag:hover{
     background-color:orangered;
     border:2px solid orangered;
     color:black;
@@ -313,7 +313,7 @@
         position: absolute;
         bottom: 1px;
         background-color: black;
-        width: 1350px;
+        width: 1450px;
         height: 150px;
     }
     .linkin{
@@ -337,14 +337,14 @@
         font-size: 25px;
         top: 2px;
     }
-    .linkin:hover,:active{
+    .linkin:hover{
         border: white solid 5px;
         border-radius: 50%;
         background-color:orangered;
         color:white;
         box-shadow: 0 0 10px orangered,0 0 10px orangered;
 }
-.gmail:hover,:active{
+.gmail:hover{
     border: white solid 5px;
     border-radius: 20%;
     background-color: orangered;
@@ -359,7 +359,7 @@
     color: white;
     font-size: 25px;
 }
-.whatsapp:hover,:active{
+.whatsapp:hover{
   border: white solid 5px;
     border-radius: 20%;
     background-color: orangered;
@@ -375,7 +375,7 @@
     font-size: 25px;
     
 }
-.twitter:hover,:active{
+.twitter:hover{
     border: white solid 5px;
     border-radius: 50%;
     background-color: orangered;
