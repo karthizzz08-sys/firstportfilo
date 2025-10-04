@@ -16,6 +16,7 @@
     padding-left: 150px;
     height: 40PX;
     color: orangered;
+    box-shadow: 0 0 10px;
 }
 .thi{
     color: white;
@@ -139,7 +140,7 @@
 .parent3{
     display: flex;
     background-color: black;
-    width: 120vh;
+    width: 1300px;
     height:750px;
     position: absolute;
     top: 800px;
@@ -312,7 +313,7 @@
         position: absolute;
         bottom: 1px;
         background-color: black;
-        width: 1275px;
+        width: 1350px;
         height: 150px;
     }
     .linkin{
