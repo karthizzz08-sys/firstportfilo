@@ -140,7 +140,7 @@
 .parent3{
     display: flex;
     background-color: black;
-    width: 900px;
+    width: 850px;    
     height:750px;
     position: absolute;
     top: 800px;
@@ -313,7 +313,7 @@
         position: absolute;
         bottom: 1px;
         background-color: black;
-        width: 1350px;
+        width: 1295px;
         height: 150px;
     }
     .linkin{
